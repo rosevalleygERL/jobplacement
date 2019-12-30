@@ -27,7 +27,7 @@ Example of a Button w/Helper Class:
 </div>
 ```
 
-### **Story 5355 - Mobile friendly Product/Index**
+### **Story 5355 - Mobile Friendly Product/Index (Back End/Front End)**
 
 **Story Description:**
 We have mobile-friendly pages for all our sites (through the branch AH-5151-MobileFriendlyDesign). Pages added after this branch lacks the mobile-friendly display of their content. One of these pages is the Product/AdminIndex -- a view page you see when logged in as a User (employee).
@@ -93,7 +93,7 @@ Content - Mobile - Products (Site.Mobile.css):
 /*End Mobile - Products page*/
 ```
 
-### **Story 5587 - Back End: On Schedule Check**
+### **Story 5587 - On Schedule Check (Back End)**
 
 **Story Description:**
 We already have a method in the Create Schedule method of the Schedules controller to check if someone has vacation during the time they are being scheduled. Now we want to add a method to check if they are on the schedule already for that job, or for another job. 
